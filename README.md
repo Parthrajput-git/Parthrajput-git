@@ -1,3 +1,4 @@
+![logo](https://github.com/Parthrajput-git/Parthrajput-git/blob/main/Blue%20And%20Purple%20Professional%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parth Rajput</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
